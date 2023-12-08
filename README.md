@@ -1,13 +1,6 @@
-# vendor_management
 # Vendor Management System
 
 This Django-based Vendor Management System allows you to manage vendor profiles, track purchase orders, and calculate vendor performance metrics.
-
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Running Tests](#running-tests)
 
 ## Installation
 
